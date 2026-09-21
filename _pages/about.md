@@ -15,6 +15,7 @@ profile:
 news: false
 selected_papers: true
 social: true
+---
 
 I study ownership and governance in generative AI systems. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP. My work is grounded in prior experience across IP law, technology policy, and platform-economy research. I've prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India's G20 presidency in 2023, and participated in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. That grounding shapes how I approach GenAI governance now — not as an abstract doctrinal question, but as one with real consequences for the people and industries it touches.
 
