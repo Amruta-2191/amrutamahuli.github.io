@@ -4,5 +4,5 @@
 cv_pdf: /assets/pdf/CV.pdf
 email: amruta.mahuli@mpi-sp.org
 linkedin: https://www.linkedin.com/in/amruta-mahuli-5a200196/ #
-rss_icon: true # delete this line if you don't plan to write blog posts
+rss_icon: false # delete this line if you don't plan to write blog posts
 # scholar_userid: # add this back once you create a Google Scholar profile
