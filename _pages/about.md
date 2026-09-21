@@ -18,7 +18,7 @@ social: true
 ---
 
 <style>
-:root {
+:root{
   --global-theme-color: #7c9070;
   --global-hover-color: #6b7f5f;
 }
