@@ -12,8 +12,8 @@ profile:
     <p>Max Planck Institute for Security and Privacy</p>
     <p>Bochum, Germany</p>
 
-news: false
-selected_papers: true
+news: true
+selected_papers: false
 social: true
 ---
 
