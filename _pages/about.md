@@ -36,7 +36,7 @@ My path here wasn't linear — it started in computer science, then moved throug
   </div>
   <div style="background: var(--global-bg-color, #f5f5f5); border-radius: 8px; padding: 12px; opacity: 0.75;">
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #444441;">Origins</p>
-    <p style="font-size: 11px; margin: 0; color: #5F5E5A;">BSc, Computer Science</p>
+    <p style="font-size: 11px; margin: 0; color: #5F5E5A;">BSc (Computer Science), LLB, MA (Public Policy and Governance)</p>
   </div>
 </div>
 
