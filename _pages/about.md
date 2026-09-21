@@ -84,6 +84,6 @@ I study ownership and governance in generative AI systems, using human-computer 
 
 My path here wasn't linear — it started in computer science, then moved through IP law, technology policy, and platform-economy research before returning to technical research. I've prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India's G20 presidency in 2023, and participated in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. That grounding shapes how I approach GenAI governance now — not as an abstract doctrinal questions, but as one with real, on-the-ground consequences.
 
----
-
 When I'm not deep in a legal-tech rabbit hole, you'll usually find me in the gym lifting weights, swimming, kickboxing, hiking, crocheting, or knitting.
+
+---
