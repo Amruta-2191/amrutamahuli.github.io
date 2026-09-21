@@ -3,6 +3,6 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV.pdf
 email: amruta.mahuli@mpi-sp.org
-linkedin: https://www.linkedin.com/in/amruta-mahuli-5a200196/ # <-- replace with your actual LinkedIn username, see below
+linkedin: https://www.linkedin.com/in/amruta-mahuli-5a200196/ #
 rss_icon: true # delete this line if you don't plan to write blog posts
 # scholar_userid: # add this back once you create a Google Scholar profile
