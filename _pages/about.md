@@ -2,33 +2,66 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate · Ruhr University Bochum & Max Planck Institute for Security and Privacy (MPI-SP)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Max Planck Institute for Security and Privacy</p>
+    <p>Bochum, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false
+selected_papers: true
+social: true
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+Interdisciplinary researcher at the intersection of law, technology, and public policy. I focus on governance issues in emerging technologies, including AI systems — with the broader goal of contributing to policy standards that are both technically robust and socially responsive.
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+My doctoral research examines ownership frameworks in Generative AI (GenAI) systems, particularly whether the objectives of copyright law hold up in GenAI applications. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+When I'm not deep in a legal-tech rabbit hole, you'll usually find me in the gym lifting weights, swimming, kickboxing, hiking, crocheting or knitting.
+## Education
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**PhD, Computer Science** — Ruhr University Bochum
+Responsible Computing Group, Max Planck Institute for Security and Privacy · Supervisor: [Asia Biega](https://asiabiega.github.io/) · Nov 2023 – Present
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**MA, Public Policy and Governance** — Azim Premji University · Jul 2019 – Nov 2021
+Thesis: *To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles*
+
+**LLB** — Pune University · Jun 2013 – Apr 2016
+Enrolled, Bar Council of Maharashtra & Goa
+
+**BSc, Computer Science** — Pune University · Jun 2009 – Apr 2012
+1st place, X-Pro 2012 (IT project competition) for a location-based service application
+
+## Experience
+
+**Max Planck Institute for Security & Privacy** — Doctoral Researcher · Nov 2023 – Present
+
+**Ernst & Young LLP** — Senior Project Consultant · Jan – Jun 2023
+Subject matter expert on gig work, Employment Working Group, G20 Summit 2023; co-drafted outcome documents and supported delegate negotiations
+
+**Fairwork Project** (OII & IIITB) — External Consultant · Jul 2021 – Jan 2023
+Analyzed 120+ stakeholder interviews across the platform economy; co-authored the Fairwork Y3/Y4 India reports; vetted worker agreements with Swiggy, Zomato, UC, and Flipkart
+
+**DST Centre for Policy Research, IISc** — Consultant Policy Researcher · Jun 2021 – Jun 2022
+Mixed-methods research on STI diplomacy and AI in foreign ministry operations
+
+**Khurana and Khurana, Advocates and IP Attorneys** — Legal Associate · Dec 2016 – Dec 2018
+Managed 150+ client portfolio; drafted and negotiated 100+ commercial contracts; awarded Remarkable Record of Performance (Q2/Q3 2018)
+
+**Eclerx Services Limited** — Analyst · May 2012 – Aug 2013
+Data quality audits for marketing teams; spot reward for excellence, Q1 2013
+
+## Service
+
+- Reviewer, Institutional Ethics Review Board, MPI-SP (2025–Present)
+- Teaching Assistant, *Privacy, Data Governance, and Usability* (MSc), Ruhr University Bochum (Winter 2025–26)
+- Ethics reviewer, ICML (2026)
+
+## Policy Contributions
+
+- Parliamentary deposition before the Standing Committee for Communications and Information Technology on algorithmic control and data privacy in the gig economy (Aug 2022)
+- Co-author, comments to the Draft Code on Social Security (Telangana) Rules, submitted to the Commissioner of Labour, Telangana (Feb 2022)
+- Co-author, comments to the Code on Social Security Bill, 2019, submitted to the Ministry of Labour and Employment (Oct 2019)
