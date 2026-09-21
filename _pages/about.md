@@ -17,14 +17,14 @@ selected_papers: true
 social: true
 ---
 
-I study ownership and governance in generative AI systems. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP. My work is grounded in prior experience across IP law, technology policy, and platform-economy research. I've prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India's G20 presidency in 2023, and participated in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. That grounding shapes how I approach GenAI governance now — not as an abstract doctrinal question, but as one with real consequences for the people and industries it touches.
+I study ownership and governance in generative AI systems, using human-computer interaction methods to understand how these systems are used, contested, and governed in practice. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP.
 
-When I'm not deep in a legal-tech rabbit hole, you'll usually find me in the gym lifting weights, swimming, kickboxing, hiking, crocheting or knitting.
+My path here wasn't linear — it started in computer science, then moved through IP law, technology policy, and platform-economy research before returning to technical research. I've prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India's G20 presidency in 2023, and participated in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. That grounding shapes how I approach GenAI governance now — not as an abstract doctrinal questions, but as one with real, on-the-ground consequences.
 
 <div style="display: grid; grid-template-columns: 1.3fr 1fr 1fr 1fr; gap: 10px; margin: 1.5rem 0;">
   <div style="background: #EEEDFE; border: 2px solid #7F77DD; border-radius: 8px; padding: 12px;">
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #26215C;">Research</p>
-    <p style="font-size: 11px; margin: 0; color: #3C3489;">PhD, GenAI ownership</p>
+    <p style="font-size: 11px; margin: 0; color: #3C3489;">PhD, GenAI ownership (HCI)</p>
   </div>
   <div style="background: #FAECE7; border-radius: 8px; padding: 12px;">
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #4A1B0C;">Law</p>
@@ -34,8 +34,10 @@ When I'm not deep in a legal-tech rabbit hole, you'll usually find me in the gym
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #042C53;">Policy</p>
     <p style="font-size: 11px; margin: 0; color: #0C447C;">G20 (MoLE), Parliament</p>
   </div>
-  <div style="background: #E1F5EE; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #04342C;">Methods</p>
-    <p style="font-size: 11px; margin: 0; color: #085041;">Interviews, qual. analysis</p>
+  <div style="background: var(--global-bg-color, #f5f5f5); border-radius: 8px; padding: 12px; opacity: 0.75;">
+    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #444441;">Origins</p>
+    <p style="font-size: 11px; margin: 0; color: #5F5E5A;">BSc, Computer Science</p>
   </div>
 </div>
+
+When I'm not deep in a legal-tech rabbit hole, you'll usually find me in the gym lifting weights, swimming, kickboxing, hiking, crocheting, or knitting.
