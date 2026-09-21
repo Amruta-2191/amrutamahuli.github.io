@@ -34,10 +34,9 @@ My path here wasn't linear — it started in computer science, then moved throug
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #042C53;">Policy</p>
     <p style="font-size: 11px; margin: 0; color: #0C447C;">G20 (MoLE), Parliament</p>
   </div>
-  <div style="background: var(--global-bg-color, #f5f5f5); border-radius: 8px; padding: 12px; opacity: 0.75;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #444441;">Origins</p>
-    <p style="font-size: 11px; margin: 0; color: #5F5E5A;">BSc (Computer Science), LLB, MA (Public Policy and Governance)</p>
-  </div>
+ <div style="background: #E1F5EE; border: 2px solid #5DCAA5; border-radius: 8px; padding: 12px;">
+    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #04342C;">Origins</p>
+    <p style="font-size: 11px; margin: 0; color: #085041;">BSc (Computer Science), LLB, MA (Public Policy and Governance)</p>
 </div>
 
 When I'm not deep in a legal-tech rabbit hole, you'll usually find me in the gym lifting weights, swimming, kickboxing, hiking, crocheting, or knitting.
